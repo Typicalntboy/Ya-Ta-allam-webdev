@@ -1,0 +1,13 @@
+body {
+    background-color: white;
+    font-family: Poppins, Helvet;
+}
+
+.main {
+    margin-top: 10px;
+}
+
+.title {
+    text-align: center;
+    font-weight: 600;
+}
